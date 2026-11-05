@@ -1,0 +1,22 @@
+# Stefano Bonini
+
+> Italian economist and risk advisor specialising in credit risk and FinTech. Adjunct Professor at the University of Bologna and the University of Florence; Partner and Head of Risk Advisory at MBS Consulting (ION Group). ORCID: 0000-0002-9063-866X.
+
+## About
+- Teaches FinTech (University of Bologna), Innovation in Banking and Financial Markets (University of Florence), Financial Risk Management (LUMSA University, Rome), Credit Risk (POLIMI Graduate School of Management, Milan)
+- Formerly head of the Credit Risk & Risk Governance practice at Accenture; earlier at Deloitte Consulting and Prometeia
+- Research: PD/LGD modelling, survival analysis in the Basel framework, climate risk in IRB models, machine learning in credit risk, FinTech
+- PhD in Banking & Finance (cum laude), University of Rome Tor Vergata; CStat (Royal Statistical Society), PStat (American Statistical Association)
+
+## Books
+- [FinTech: Rethinking Financial Intermediation. Innovation, Markets, and Regulation](https://www.francoangeli.it/Libro/FinTech:-Rethinking-Financial-Intermediation?Id=30825): with Giuliana Caivano, FrancoAngeli, 2026, ISBN 9788835196099
+- [Statistica per le decisioni economiche e finanziarie](https://francoangeli.it/Libro/Statistica-per-le-decisioni-economiche-e-finanziarie?Id=30509): with Giuliana Caivano, FrancoAngeli, 2026, ISBN 9788835187905
+
+## Profiles
+- [ORCID](https://orcid.org/0000-0002-9063-866X)
+- [Google Scholar](https://scholar.google.com/citations?user=nUlzBe8AAAAJ)
+- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2621444)
+- [RePEc](https://authors.repec.org/pro/pbo1274)
+- [University of Bologna](https://www.unibo.it/sitoweb/stefano.bonini)
+- [Wikidata](https://www.wikidata.org/wiki/Q141988819)
+- [Website](https://stefanobonini.eu/)
